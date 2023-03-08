@@ -19,7 +19,7 @@ My name is Oskar Tarka. I attend a private technical college with a programming 
 - HTML AND CSS
 ![UC-c9bf0339-fba7-4805-8590-90f1d5d69274](https://user-images.githubusercontent.com/93466171/223812423-a515ed3e-de0d-4f37-9e20-bc5543ac4bf2.jpg)
 
--PHP
+- PHP
 SOON
 
 - FULL STACK WEBDEVELOPER
