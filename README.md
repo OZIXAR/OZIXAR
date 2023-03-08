@@ -3,7 +3,7 @@ My name is Oskar Tarka. I attend a private technical college with a programming 
 
 - 💁‍♂️ Something about me
 - 👦 I'm 15 years old
-- 🎂 Born 21th March
+- 🎂 CS:GO esports match analyst
 - 🌱 I'm coding in Html, Css
 - 🌱 I’m currently learning PHP, javascripts, mySQL, NodeJS, ExpressJS
 - 🔭 I’m currently working on ... secret ;)
