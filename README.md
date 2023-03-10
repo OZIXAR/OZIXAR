@@ -23,7 +23,7 @@ SOON
 SOON
 
 - PostgreSQL | SQL
-![UC-a9016ac1-a06a-4974-85dd-688ea3d2a3a9](https://user-images.githubusercontent.com/93466171/224344954-631c2296-4deb-4072-b8d9-e82e53570d9a.jpg)
+![UC-a9016ac1-a06a-4974-85dd-688ea3d2a3a9](https://user-images.githubusercontent.com/93466171/224345454-59f977fc-d994-4881-8688-18bce36d6335.jpg)
 
 
 - HTML AND CSS
