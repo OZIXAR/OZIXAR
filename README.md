@@ -6,7 +6,7 @@ My name is Oskar Tarka. I attend a private technical college with a programming 
 - 🎂 CS:GO esports match analyst
 - 🌱 I'm coding in Html, Css, Sql, Php
 - 🌱 I’m currently learning Php, Sql, javascripts, NodeJS, ExpressJS
-- 🔭 I’m currently working on ... secret ;)
+- 🔭 I’m currently working on ... WEB FOR SHAMAN CS:GO ESPORT ANALYTICS
 - 🎯 Goal for this year: Gain knowledge that will allow me to become a junior web developer
 
 💻 My workplace
