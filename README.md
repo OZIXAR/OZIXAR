@@ -22,11 +22,9 @@ SOON
 - FULL STACK WEBDEVELOPER
 SOON
 
-- PostgreSQL
-SOON
+- PostgreSQL | SQL
+![UC-a9016ac1-a06a-4974-85dd-688ea3d2a3a9](https://user-images.githubusercontent.com/93466171/224344954-631c2296-4deb-4072-b8d9-e82e53570d9a.jpg)
 
-- MySQL
-SOON
 
 - HTML AND CSS
 ![UC-c9bf0339-fba7-4805-8590-90f1d5d69274](https://user-images.githubusercontent.com/93466171/223814332-65cd6393-054e-4e54-8e7d-889abe44e73e.jpg)
