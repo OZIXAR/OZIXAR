@@ -5,7 +5,7 @@ My name is Oskar Tarka. I attend a private technical college with a programming 
 - 👦 I'm 15 years old
 - 🎂 CS:GO esports match analyst
 - 🌱 I'm coding in Html, Css, Sql, Php
-- 🌱 I’m currently learning PHP, javascripts, SQL, NodeJS, ExpressJS
+- 🌱 I’m currently learning Php, Sql, javascripts, NodeJS, ExpressJS
 - 🔭 I’m currently working on ... secret ;)
 - 🎯 Goal for this year: Gain knowledge that will allow me to become a junior web developer
 
